@@ -8,6 +8,7 @@ package com.mycompany.tareamodulo6;
  *
  * @author pined
  */
+//(este es el código para hacer la clase de deportista)
 public class Deportista extends Persona {
     private String deporte;
 
